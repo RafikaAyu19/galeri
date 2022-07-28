@@ -1,2 +1,2 @@
-# galeri
+# GaleriRafika
 Created with CodeSandbox
